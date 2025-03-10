@@ -1,1 +1,7 @@
-# mysql-practice
+MySQL基礎練習
+
+建立表格（CREATE TABLE，包含 PRIMARY KEY 和 FOREIGN KEY）
+插入資料（INSERT INTO）
+基本查詢（SELECT、JOIN、GROUP BY）
+刪除資料（DELETE）
+更新資料（UPDATE）
